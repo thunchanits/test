@@ -1,0 +1,177 @@
+body{
+    font-size: 18px;
+    text-align: center;
+}
+
+#top-bar {
+    position: relative;
+    top: 15px;
+    left: 15%;
+    height: 52px;
+    width: 1058px;
+    border: 4px solid yellow;
+}
+
+#top-bar #logo{
+    position: absolute;
+    top: 3px;
+    left: 1%;
+    height: 38px;
+    width: 69px;
+    border: 4px solid blue;
+}
+
+#top-bar #womenswear{
+    position: absolute;
+    top: 3px;
+    left: 21%;
+    height: 38px;
+    width: 103px;
+    border: 4px solid blue;
+}
+
+#top-bar #menswear{
+    position: absolute;
+    top: 3px;
+    left: 34%;
+    height: 38px;
+    width: 82px;
+    border: 4px solid blue;
+}
+
+#top-bar #kids{
+    position: absolute;
+    top: 3px;
+    left: 45%;
+    height: 38px;
+    width: 35px;
+    border: 4px solid blue;
+}
+
+#top-bar #sale{
+    position: absolute;
+    top: 3px;
+    left: 51.5%;
+    height: 38px;
+    width: 42px;
+    border: 4px solid blue;
+}
+
+#top-bar #discover{
+    position: absolute;
+    top: 3px;
+    left: 58.75%;
+    height: 38px;
+    width: 70px;
+    border: 4px solid blue;
+}
+
+#top-bar #search-button{
+    position: absolute;
+    top: 3px;
+    left: 79.25%;
+    height: 38px;
+    width: 119px;
+    border: 4px solid blue;
+}
+
+#top-bar #wishlist-button{
+    position: absolute;
+    top: 3px;
+    left: 91.75%;
+    height: 38px;
+    width: 27px;
+    border: 4px solid blue;
+}
+
+#top-bar #cart-button{
+    position: absolute;
+    top: 3px;
+    left: 95.60%;
+    height: 38px;
+    width: 27px;
+    border: 4px solid blue;
+}
+
+#box{
+    position: absolute;
+    top: 83px;
+    left: 15%;
+    height: 425px;
+    width: 531px;
+    border: 4px solid purple;
+}
+
+#box #paragraph1{
+    position: absolute;
+    font-size: 50px;
+    top: 30px;
+    left: 6%;
+    height: 173px;
+    width: 461px;
+    border: 4px solid orangered;
+}
+
+#box #paragraph2{
+    position: absolute;
+    bottom: 30px;
+    left: 6%;
+    height: 53px;
+    width: 415px;
+    border: 4px solid green;
+}
+
+#picture1{
+    position: absolute;
+    top: 83px;
+    left: 51%;
+    height: 655.85px;
+    width: 512px;
+    border: 4px solid pink;
+}
+
+#picture1 #contact-us-button{
+    position: absolute;
+    top: 89.5%;
+    left: 58%;
+    height: 50px;
+    width: 197px;
+    border: 4px solid red;
+}
+
+#picture1 #learn-more-button{
+    position: absolute;
+    top: 89.5%;
+    left: 17%;
+    height: 50px;
+    width: 197px;
+    border: 4px solid red;
+}
+
+#picture1 #shop-now-button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 82px;
+    width: 82px;
+    border: 4px solid red;
+}
+
+
+#picture2{
+    position: absolute;
+    top: 525px;
+    left: 15%;
+    height: 214px;
+    width: 257px;
+    border: 4px solid pink;
+}
+
+#picture3{
+    position: absolute;
+    top: 525px;
+    left: 33%;
+    height: 214px;
+    width: 257px;
+    border: 4px solid pink;
+}
