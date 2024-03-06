@@ -1,9 +1,43 @@
 body {
     background: black;
+    font-size: 50 px;
   }
   
   .flex{
     background: yellow;
     display: flex;
-    justify-content: ;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .logo{
+    color: black;
+    padding: 40px;
+  }
+
+  .flex2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .flex2-item{
+    color: black;
+    margin: 20px;
+  }
+
+  .flex3{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 30px;
+  }
+
+  .flex3-item{
+    color: black;
+    margin: 5px;
   }
