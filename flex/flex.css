@@ -1,0 +1,9 @@
+body {
+    background: black;
+  }
+  
+  .flex{
+    background: yellow;
+    display: flex;
+    justify-content: ;
+  }
